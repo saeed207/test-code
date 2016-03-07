@@ -1,0 +1,26 @@
+INFO  06.10.2015 10:07:46  Trying to initialize repositories from: 
+    /home/saeed/Testing/magnolia/apache-tomcat-7.0.64/webapps/magnoliaAuthor/WEB-INF/bootstrap/author
+    /home/saeed/Testing/magnolia/apache-tomcat-7.0.64/webapps/magnoliaAuthor/WEB-INF/bootstrap/common
+INFO  06.10.2015 10:07:46  Repository [dam] has been initialized.
+INFO  06.10.2015 10:07:46  Repository [forum] has been initialized.
+INFO  06.10.2015 10:07:46  Repository [contacts] has been initialized.
+INFO  06.10.2015 10:07:46  Repository [usergroups] has been initialized.
+INFO  06.10.2015 10:07:46  Repository [templates] has been initialized.
+INFO  06.10.2015 10:07:46  Repository [magnolia-mgnlSystem] has been initialized.
+INFO  06.10.2015 10:07:46  Repository [scripts] has been initialized.
+INFO  06.10.2015 10:07:46  Repository [tours] has been initialized.
+INFO  06.10.2015 10:07:46  Repository [website] has been initialized.
+INFO  06.10.2015 10:07:46  Repository [magnolia-mgnlVersion] has been initialized.
+INFO  06.10.2015 10:07:46  Repository [userroles] has been initialized.
+INFO  06.10.2015 10:07:46  Repository [googleSitemaps] has been initialized.
+INFO  06.10.2015 10:07:46  Repository [profiles] has been initialized.
+INFO  06.10.2015 10:07:46  Repository [users] has been initialized.
+INFO  06.10.2015 10:07:46  Repository [tasks] has been initialized.
+INFO  06.10.2015 10:07:46  Repository [imaging] has been initialized.
+INFO  06.10.2015 10:07:46  Repository [category] has been initialized.
+INFO  06.10.2015 10:07:46  Repository [rss] has been initialized.
+INFO  06.10.2015 10:07:46  Repository [default] has been initialized.
+INFO  06.10.2015 10:07:46  Repository [resources] has been initialized.
+INFO  06.10.2015 10:07:46  Repository [messages] has been initialized.
+INFO  06.10.2015 10:07:46  Repository [config] has been initialized.
+INFO  06.10.2015 10:07:46  Repository [dms] has been initialized.

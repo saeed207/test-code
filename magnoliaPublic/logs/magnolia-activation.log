@@ -1,0 +1,923 @@
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 10:31:48 -- User superuser successfuly activated about on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 10:33:07 -- User superuser successfuly activated about on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 10:36:09 -- User superuser successfuly activated magnoliaPublic8081 on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 10:37:24 -- User superuser successfuly activated magnoliaPublic8081 on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 10:39:01 -- User superuser successfuly activated subscriptions on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 10:39:10 -- User superuser successfuly activated magnoliaPublic8080 on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 10:48:13 -- Replacing /server/activation/subscribers due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 10:48:13 -- User superuser successfuly activated subscribers on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 10:48:47 -- User superuser successfuly activated about on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:14:10 -- User superuser successfuly activated saeedVM8080 on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:14:17 -- User superuser successfuly activated subscriptions on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:14:20 -- User superuser successfuly activated exampleSubSiteSubscription on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:14:25 -- User superuser successfuly activated websiteSubscription on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:14:27 -- User superuser successfuly activated configSubscription on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:14:30 -- User superuser successfuly activated usersSubscription on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:14:35 -- User superuser successfuly activated userRolesSubscription on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:14:37 -- User superuser successfuly activated userGroupsSubscription on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:14:39 -- User superuser successfuly activated resources on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:14:41 -- User superuser successfuly activated dms on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:14:43 -- User superuser successfuly activated dam on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:14:44 -- User superuser successfuly activated imaging on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:14:47 -- User superuser successfuly activated tasks on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:15:08 -- User superuser successfuly activated messages on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:15:10 -- User superuser successfuly activated profiles on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:15:12 -- User superuser successfuly activated scripts on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:15:14 -- User superuser successfuly activated templates on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:15:16 -- User superuser successfuly activated contacts on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:15:17 -- User superuser successfuly activated forum on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:15:19 -- User superuser successfuly activated googleSitemaps on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:15:21 -- User superuser successfuly activated rss on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:15:23 -- User superuser successfuly activated category on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:15:25 -- User superuser successfuly activated tours on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:16:15 -- User superuser successfuly activated about on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:18:18 -- User superuser successfuly activated about on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:20:10 -- User superuser successfuly activated about on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:21:29 -- User superuser successfuly activated saeedVM8080 on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:22:22 -- User superuser successfuly activated subscriptions on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:23:04 -- User superuser successfuly activated contact on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:23:16 -- User superuser successfuly activated tour on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:23:20 -- User superuser successfuly activated travel on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:23:23 -- User superuser successfuly activated destination on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:23:26 -- User superuser successfuly activated destination on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:24:03 -- User superuser successfuly activated server on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:24:10 -- User superuser successfuly activated server on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:24:13 -- User superuser successfuly activated modules on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:24:18 -- User superuser successfuly activated filters on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:24:20 -- User superuser successfuly activated IPConfig on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:24:22 -- User superuser successfuly activated i18n on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:24:27 -- User superuser successfuly activated security on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:24:29 -- User superuser successfuly activated rendering on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:24:31 -- User superuser successfuly activated MIMEMapping on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:24:33 -- User superuser successfuly activated URI2RepositoryMapping on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:24:35 -- User superuser successfuly activated auditLogging on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:24:37 -- User superuser successfuly activated webContainerResources on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:24:39 -- User superuser successfuly activated activation on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:24:46 -- User superuser successfuly activated install on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:25:01 -- User superuser successfuly activated core on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:25:07 -- User superuser successfuly activated dam on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:25:08 -- User superuser successfuly activated freemarker-support on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:25:19 -- User superuser successfuly activated lang-el on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:25:21 -- User superuser successfuly activated activation on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:25:23 -- User superuser successfuly activated ui-admincentral on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:25:25 -- User superuser successfuly activated categorization-support on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:25:26 -- User superuser successfuly activated imaging-support on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:25:29 -- User superuser successfuly activated resource-loader on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:25:31 -- User superuser successfuly activated rest-client on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:25:35 -- User superuser successfuly activated rest-integration on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:25:37 -- User superuser successfuly activated cache on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:25:39 -- User superuser successfuly activated config on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:25:43 -- User superuser successfuly activated rest-services on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:25:43 -- Replacing /modules/rest-services/rest-endpoints due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:25:43 -- User superuser successfuly activated rest-endpoints on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:25:53 -- User superuser successfuly activated modules on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:25:53 -- User superuser successfuly activated lang-de on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:25:53 -- User superuser successfuly activated tours on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:25:54 -- User superuser successfuly activated virtualURIMapping on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:25:54 -- Replacing /modules/tours/apps due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:25:57 -- User superuser successfuly activated apps on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:25:59 -- User superuser successfuly activated config on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:25:59 -- User superuser successfuly activated lang-zh_TW on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:25:59 -- User superuser successfuly activated lang-zh_CN on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:25:59 -- User superuser successfuly activated lang-tr on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:00 -- User superuser successfuly activated lang-sv on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:00 -- User superuser successfuly activated lang-sq on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:00 -- User superuser successfuly activated lang-sk on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:00 -- User superuser successfuly activated lang-ru on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:01 -- User superuser successfuly activated lang-pt_BR on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:01 -- User superuser successfuly activated lang-pt on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:01 -- User superuser successfuly activated lang-pl on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:02 -- User superuser successfuly activated lang-no on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:02 -- User superuser successfuly activated lang-nl on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:02 -- User superuser successfuly activated lang-ja on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:02 -- User superuser successfuly activated lang-it on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:03 -- User superuser successfuly activated lang-id on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:03 -- User superuser successfuly activated lang-hu on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:03 -- User superuser successfuly activated lang-hr on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:03 -- User superuser successfuly activated lang-he on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:04 -- User superuser successfuly activated lang-fr on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:04 -- User superuser successfuly activated lang-fi on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:04 -- User superuser successfuly activated lang-es on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:04 -- User superuser successfuly activated lang-cs on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:05 -- User superuser successfuly activated lang-ar on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:05 -- User superuser successfuly activated categorization on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:05 -- Replacing /modules/categorization/commands due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:05 -- User superuser successfuly activated commands on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:05 -- User superuser successfuly activated categorization on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:05 -- Replacing /modules/categorization/templates due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:06 -- User superuser successfuly activated templates on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:06 -- User superuser successfuly activated components on magnoliaPublic.
+ERROR  info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:06 -- Some child node is locked (lock held by node /modules)
+javax.jcr.lock.LockException: Some child node is locked (lock held by node /modules)
+	at org.apache.jackrabbit.core.lock.LockInfo.throwLockException(LockInfo.java:269)
+	at org.apache.jackrabbit.core.lock.LockManagerImpl.internalLock(LockManagerImpl.java:370)
+	at org.apache.jackrabbit.core.lock.XALockManager.lock(XALockManager.java:80)
+	at org.apache.jackrabbit.core.lock.SessionLockManager.lock(SessionLockManager.java:180)
+	at org.apache.jackrabbit.core.NodeImpl.lock(NodeImpl.java:3019)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.cms.core.DefaultContent.lock(DefaultContent.java:628)
+	at info.magnolia.module.activation.ReceiveFilter.lock(ReceiveFilter.java:997)
+	at info.magnolia.module.activation.ReceiveFilter.applyLock(ReceiveFilter.java:784)
+	at info.magnolia.module.activation.ReceiveFilter.doFilter(ReceiveFilter.java:172)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.security.auth.login.LoginFilter.doFilter(LoginFilter.java:127)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81)
+	at info.magnolia.cms.filters.CosMultipartRequestFilter.doFilter(CosMultipartRequestFilter.java:87)
+	at info.magnolia.cms.filters.OncePerRequestAbstractMgnlFilter.doFilter(OncePerRequestAbstractMgnlFilter.java:59)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.ContentTypeFilter.doFilter(ContentTypeFilter.java:143)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.ContextFilter.doFilter(ContextFilter.java:128)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.CompositeFilter.doFilter(CompositeFilter.java:65)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.SafeDestroyMgnlFilterWrapper.doFilter(SafeDestroyMgnlFilterWrapper.java:107)
+	at info.magnolia.cms.filters.MgnlFilterDispatcher.doDispatch(MgnlFilterDispatcher.java:67)
+	at info.magnolia.cms.filters.MgnlMainFilter.doFilter(MgnlMainFilter.java:108)
+	at info.magnolia.cms.filters.MgnlMainFilter.doFilter(MgnlMainFilter.java:94)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:423)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1079)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:625)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:06 -- User superuser successfuly activated dam-jcr on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:06 -- User superuser successfuly activated pages on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:06 -- Replacing /modules/categorization/dialogs due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:07 -- User superuser successfuly activated dialogs on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:07 -- User superuser successfuly activated generic on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:08 -- User superuser successfuly activated ehcache on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:08 -- Replacing /modules/categorization/apps due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+ERROR  info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:10 -- Some child node is locked (lock held by node /modules)
+javax.jcr.lock.LockException: Some child node is locked (lock held by node /modules)
+	at org.apache.jackrabbit.core.lock.LockInfo.throwLockException(LockInfo.java:269)
+	at org.apache.jackrabbit.core.lock.LockManagerImpl.internalLock(LockManagerImpl.java:370)
+	at org.apache.jackrabbit.core.lock.XALockManager.lock(XALockManager.java:80)
+	at org.apache.jackrabbit.core.lock.SessionLockManager.lock(SessionLockManager.java:180)
+	at org.apache.jackrabbit.core.NodeImpl.lock(NodeImpl.java:3019)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.cms.core.DefaultContent.lock(DefaultContent.java:628)
+	at info.magnolia.module.activation.ReceiveFilter.lock(ReceiveFilter.java:997)
+	at info.magnolia.module.activation.ReceiveFilter.applyLock(ReceiveFilter.java:784)
+	at info.magnolia.module.activation.ReceiveFilter.doFilter(ReceiveFilter.java:172)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.security.auth.login.LoginFilter.doFilter(LoginFilter.java:127)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81)
+	at info.magnolia.cms.filters.CosMultipartRequestFilter.doFilter(CosMultipartRequestFilter.java:87)
+	at info.magnolia.cms.filters.OncePerRequestAbstractMgnlFilter.doFilter(OncePerRequestAbstractMgnlFilter.java:59)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.ContentTypeFilter.doFilter(ContentTypeFilter.java:143)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.ContextFilter.doFilter(ContextFilter.java:128)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.CompositeFilter.doFilter(CompositeFilter.java:65)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.SafeDestroyMgnlFilterWrapper.doFilter(SafeDestroyMgnlFilterWrapper.java:107)
+	at info.magnolia.cms.filters.MgnlFilterDispatcher.doDispatch(MgnlFilterDispatcher.java:67)
+	at info.magnolia.cms.filters.MgnlMainFilter.doFilter(MgnlMainFilter.java:108)
+	at info.magnolia.cms.filters.MgnlMainFilter.doFilter(MgnlMainFilter.java:94)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:423)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1079)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:625)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:318)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:11 -- User superuser successfuly activated apps on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:11 -- User superuser successfuly activated rendering on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:12 -- User superuser successfuly activated travel-demo on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:13 -- Replacing /modules/travel-demo/config due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:13 -- User superuser successfuly activated config on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:13 -- User superuser successfuly activated rssaggregator on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:13 -- Replacing /modules/rssaggregator/templates due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:13 -- User superuser successfuly activated templates on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:14 -- User superuser successfuly activated components on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:14 -- Replacing /modules/rssaggregator/virtualURIMapping due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:14 -- User superuser successfuly activated virtualURIMapping on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:14 -- User superuser successfuly activated ui-framework on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:15 -- Replacing /modules/rssaggregator/dialogs due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:16 -- User superuser successfuly activated dialogs on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:17 -- User superuser successfuly activated commands on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:17 -- User superuser successfuly activated rss on magnoliaPublic.
+ERROR  info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:17 -- Some child node is locked (lock held by node /modules)
+javax.jcr.lock.LockException: Some child node is locked (lock held by node /modules)
+	at org.apache.jackrabbit.core.lock.LockInfo.throwLockException(LockInfo.java:269)
+	at org.apache.jackrabbit.core.lock.LockManagerImpl.internalLock(LockManagerImpl.java:370)
+	at org.apache.jackrabbit.core.lock.XALockManager.lock(XALockManager.java:80)
+	at org.apache.jackrabbit.core.lock.SessionLockManager.lock(SessionLockManager.java:180)
+	at org.apache.jackrabbit.core.NodeImpl.lock(NodeImpl.java:3019)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.cms.core.DefaultContent.lock(DefaultContent.java:628)
+	at info.magnolia.module.activation.ReceiveFilter.lock(ReceiveFilter.java:997)
+	at info.magnolia.module.activation.ReceiveFilter.applyLock(ReceiveFilter.java:784)
+	at info.magnolia.module.activation.ReceiveFilter.doFilter(ReceiveFilter.java:172)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.security.auth.login.LoginFilter.doFilter(LoginFilter.java:127)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81)
+	at info.magnolia.cms.filters.CosMultipartRequestFilter.doFilter(CosMultipartRequestFilter.java:87)
+	at info.magnolia.cms.filters.OncePerRequestAbstractMgnlFilter.doFilter(OncePerRequestAbstractMgnlFilter.java:59)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.ContentTypeFilter.doFilter(ContentTypeFilter.java:143)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.ContextFilter.doFilter(ContextFilter.java:128)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.CompositeFilter.doFilter(CompositeFilter.java:65)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.SafeDestroyMgnlFilterWrapper.doFilter(SafeDestroyMgnlFilterWrapper.java:107)
+	at info.magnolia.cms.filters.MgnlFilterDispatcher.doDispatch(MgnlFilterDispatcher.java:67)
+	at info.magnolia.cms.filters.MgnlMainFilter.doFilter(MgnlMainFilter.java:108)
+	at info.magnolia.cms.filters.MgnlMainFilter.doFilter(MgnlMainFilter.java:94)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:423)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1079)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:625)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:316)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:17 -- User superuser successfuly activated planet on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:17 -- User superuser successfuly activated imaging on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:17 -- User superuser successfuly activated config on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:18 -- Replacing /modules/rssaggregator/config/feedGenerators due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:18 -- User superuser successfuly activated feedGenerators on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:18 -- User superuser successfuly activated fieldTypes on magnoliaPublic.
+ERROR  info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:20 -- Some child node is locked (lock held by node /modules)
+javax.jcr.lock.LockException: Some child node is locked (lock held by node /modules)
+	at org.apache.jackrabbit.core.lock.LockInfo.throwLockException(LockInfo.java:269)
+	at org.apache.jackrabbit.core.lock.LockManagerImpl.internalLock(LockManagerImpl.java:370)
+	at org.apache.jackrabbit.core.lock.XALockManager.lock(XALockManager.java:80)
+	at org.apache.jackrabbit.core.lock.SessionLockManager.lock(SessionLockManager.java:180)
+	at org.apache.jackrabbit.core.NodeImpl.lock(NodeImpl.java:3019)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.cms.core.DefaultContent.lock(DefaultContent.java:628)
+	at info.magnolia.module.activation.ReceiveFilter.lock(ReceiveFilter.java:997)
+	at info.magnolia.module.activation.ReceiveFilter.applyLock(ReceiveFilter.java:784)
+	at info.magnolia.module.activation.ReceiveFilter.doFilter(ReceiveFilter.java:172)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.security.auth.login.LoginFilter.doFilter(LoginFilter.java:127)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81)
+	at info.magnolia.cms.filters.CosMultipartRequestFilter.doFilter(CosMultipartRequestFilter.java:87)
+	at info.magnolia.cms.filters.OncePerRequestAbstractMgnlFilter.doFilter(OncePerRequestAbstractMgnlFilter.java:59)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.ContentTypeFilter.doFilter(ContentTypeFilter.java:143)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.ContextFilter.doFilter(ContextFilter.java:128)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.CompositeFilter.doFilter(CompositeFilter.java:65)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.SafeDestroyMgnlFilterWrapper.doFilter(SafeDestroyMgnlFilterWrapper.java:107)
+	at info.magnolia.cms.filters.MgnlFilterDispatcher.doDispatch(MgnlFilterDispatcher.java:67)
+	at info.magnolia.cms.filters.MgnlMainFilter.doFilter(MgnlMainFilter.java:108)
+	at info.magnolia.cms.filters.MgnlMainFilter.doFilter(MgnlMainFilter.java:94)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:423)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1079)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:625)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:318)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:20 -- User superuser successfuly activated apps on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:21 -- User superuser successfuly activated resteasy-client on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:21 -- User superuser successfuly activated mte on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:22 -- Replacing /modules/mte/dialogs due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:22 -- User superuser successfuly activated dialogs on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:22 -- User superuser successfuly activated generic on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:22 -- User superuser successfuly activated lang-da on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:22 -- User superuser successfuly activated commenting on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:22 -- Replacing /modules/commenting/templates due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:22 -- User superuser successfuly activated templates on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:23 -- User superuser successfuly activated components on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:23 -- Replacing /modules/commenting/dialogs due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:23 -- User superuser successfuly activated dialogs on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:23 -- User superuser successfuly activated config on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:24 -- User superuser successfuly activated site-app on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:24 -- Replacing /modules/site-app/apps due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:24 -- User superuser successfuly activated apps on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:24 -- User superuser successfuly activated mte-imaging on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:24 -- User superuser successfuly activated google-sitemap on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:25 -- User superuser successfuly activated virtualURIMapping on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:25 -- Content /modules/google-sitemap is locked. Will retry 10 more times.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:25 -- User superuser successfuly activated scheduler on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:25 -- Replacing /modules/scheduler/config due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:25 -- User superuser successfuly activated config on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:25 -- User superuser successfuly activated jobs on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:26 -- User superuser successfuly activated messageViews on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:27 -- User superuser successfuly activated fieldTypes on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:27 -- User superuser successfuly activated dialogs on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:27 -- User superuser successfuly activated components on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:28 -- User superuser successfuly activated content on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:28 -- User superuser successfuly activated generic on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:29 -- User superuser successfuly activated controls on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:29 -- User superuser successfuly activated templates on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:29 -- User superuser successfuly activated pages on magnoliaPublic.
+ERROR  info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:30 -- Some child node is locked (lock held by node /modules)
+javax.jcr.lock.LockException: Some child node is locked (lock held by node /modules)
+	at org.apache.jackrabbit.core.lock.LockInfo.throwLockException(LockInfo.java:269)
+	at org.apache.jackrabbit.core.lock.LockManagerImpl.internalLock(LockManagerImpl.java:370)
+	at org.apache.jackrabbit.core.lock.XALockManager.lock(XALockManager.java:80)
+	at org.apache.jackrabbit.core.lock.SessionLockManager.lock(SessionLockManager.java:180)
+	at org.apache.jackrabbit.core.NodeImpl.lock(NodeImpl.java:3019)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.cms.core.DefaultContent.lock(DefaultContent.java:628)
+	at info.magnolia.module.activation.ReceiveFilter.lock(ReceiveFilter.java:997)
+	at info.magnolia.module.activation.ReceiveFilter.applyLock(ReceiveFilter.java:784)
+	at info.magnolia.module.activation.ReceiveFilter.doFilter(ReceiveFilter.java:172)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.security.auth.login.LoginFilter.doFilter(LoginFilter.java:127)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81)
+	at info.magnolia.cms.filters.CosMultipartRequestFilter.doFilter(CosMultipartRequestFilter.java:87)
+	at info.magnolia.cms.filters.OncePerRequestAbstractMgnlFilter.doFilter(OncePerRequestAbstractMgnlFilter.java:59)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.ContentTypeFilter.doFilter(ContentTypeFilter.java:143)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.ContextFilter.doFilter(ContextFilter.java:128)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.CompositeFilter.doFilter(CompositeFilter.java:65)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.SafeDestroyMgnlFilterWrapper.doFilter(SafeDestroyMgnlFilterWrapper.java:107)
+	at info.magnolia.cms.filters.MgnlFilterDispatcher.doDispatch(MgnlFilterDispatcher.java:67)
+	at info.magnolia.cms.filters.MgnlMainFilter.doFilter(MgnlMainFilter.java:108)
+	at info.magnolia.cms.filters.MgnlMainFilter.doFilter(MgnlMainFilter.java:94)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:423)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1079)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:625)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:318)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:30 -- User superuser successfuly activated apps on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:30 -- User superuser successfuly activated templating on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:31 -- Replacing /modules/templating/templates due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:31 -- User superuser successfuly activated templates on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:31 -- User superuser successfuly activated config on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:31 -- Replacing /modules/templating/renderers due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+ERROR  info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:31 -- Some child node is locked (lock held by node /modules)
+javax.jcr.lock.LockException: Some child node is locked (lock held by node /modules)
+	at org.apache.jackrabbit.core.lock.LockInfo.throwLockException(LockInfo.java:269)
+	at org.apache.jackrabbit.core.lock.LockManagerImpl.internalLock(LockManagerImpl.java:370)
+	at org.apache.jackrabbit.core.lock.XALockManager.lock(XALockManager.java:80)
+	at org.apache.jackrabbit.core.lock.SessionLockManager.lock(SessionLockManager.java:180)
+	at org.apache.jackrabbit.core.NodeImpl.lock(NodeImpl.java:3019)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.cms.core.DefaultContent.lock(DefaultContent.java:628)
+	at info.magnolia.module.activation.ReceiveFilter.lock(ReceiveFilter.java:997)
+	at info.magnolia.module.activation.ReceiveFilter.applyLock(ReceiveFilter.java:784)
+	at info.magnolia.module.activation.ReceiveFilter.doFilter(ReceiveFilter.java:172)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.security.auth.login.LoginFilter.doFilter(LoginFilter.java:127)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81)
+	at info.magnolia.cms.filters.CosMultipartRequestFilter.doFilter(CosMultipartRequestFilter.java:87)
+	at info.magnolia.cms.filters.OncePerRequestAbstractMgnlFilter.doFilter(OncePerRequestAbstractMgnlFilter.java:59)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.ContentTypeFilter.doFilter(ContentTypeFilter.java:143)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.ContextFilter.doFilter(ContextFilter.java:128)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.CompositeFilter.doFilter(CompositeFilter.java:65)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.SafeDestroyMgnlFilterWrapper.doFilter(SafeDestroyMgnlFilterWrapper.java:107)
+	at info.magnolia.cms.filters.MgnlFilterDispatcher.doDispatch(MgnlFilterDispatcher.java:67)
+	at info.magnolia.cms.filters.MgnlMainFilter.doFilter(MgnlMainFilter.java:108)
+	at info.magnolia.cms.filters.MgnlMainFilter.doFilter(MgnlMainFilter.java:94)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:423)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1079)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:625)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:318)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:31 -- User superuser successfuly activated renderers on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:31 -- User superuser successfuly activated forum on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:32 -- User superuser successfuly activated templates on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:32 -- User superuser successfuly activated components on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:32 -- User superuser successfuly activated commands on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:32 -- User superuser successfuly activated forum on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:33 -- User superuser successfuly activated dialogs on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:34 -- Replacing /modules/forum/apps due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:34 -- User superuser successfuly activated apps on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:34 -- User superuser successfuly activated config on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:35 -- User superuser successfuly activated pages on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:35 -- User superuser successfuly activated form on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:35 -- Replacing /modules/form/templates due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:35 -- User superuser successfuly activated templates on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:36 -- User superuser successfuly activated components on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:36 -- Replacing /modules/form/config due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:36 -- User superuser successfuly activated config on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:36 -- User superuser successfuly activated validators on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:37 -- Replacing /modules/form/dialogs due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:37 -- User superuser successfuly activated dialogs on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:38 -- User superuser successfuly activated dam-templating on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:38 -- User superuser successfuly activated dam-imaging on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:38 -- User superuser successfuly activated dam-app on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:38 -- Replacing /modules/dam-app/config due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:38 -- User superuser successfuly activated config on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:39 -- Replacing /modules/dam-app/apps due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:40 -- User superuser successfuly activated apps on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:40 -- User superuser successfuly activated fieldTypes on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:40 -- User superuser successfuly activated commands on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:41 -- User superuser successfuly activated dam on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:41 -- User superuser successfuly activated dialogs on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:41 -- User superuser successfuly activated contacts on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:42 -- Replacing /modules/contacts/apps due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:43 -- User superuser successfuly activated apps on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:43 -- User superuser successfuly activated dialogs on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:44 -- User superuser successfuly activated cache-browser-app on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:44 -- Replacing /modules/cache-browser-app/rest-endpoints due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:44 -- User superuser successfuly activated rest-endpoints on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:44 -- User superuser successfuly activated dialogs on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:45 -- User superuser successfuly activated ui-contentapp on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:45 -- User superuser successfuly activated site on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:45 -- Replacing /modules/site/renderers due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:45 -- User superuser successfuly activated renderers on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:46 -- User superuser successfuly activated config on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:46 -- User superuser successfuly activated themes on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:46 -- Content /modules is locked. Will retry 10 more times.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:46 -- User superuser successfuly activated ui-mediaeditor on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:48 -- Content /modules is locked. Will retry 9 more times.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:48 -- User superuser successfuly activated resources on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:50 -- User superuser successfuly activated task-management on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:50 -- User superuser successfuly activated security-app on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:51 -- Replacing /modules/security-app/apps due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:52 -- User superuser successfuly activated apps on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:52 -- User superuser successfuly activated templating-jsp on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:52 -- Replacing /modules/security-app/dialogs due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:53 -- User superuser successfuly activated dialogs on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:53 -- User superuser successfuly activated fieldTypes on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:53 -- User superuser successfuly activated sample-app on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:54 -- Replacing /modules/sample-app/apps due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:54 -- User superuser successfuly activated apps on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:54 -- Content /modules is locked. Will retry 10 more times.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:54 -- User superuser successfuly activated resources-app on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:54 -- User superuser successfuly activated dialogs on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:55 -- Replacing /modules/resources-app/apps due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+ERROR  info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:56 -- Some child node is locked (lock held by node /modules)
+javax.jcr.lock.LockException: Some child node is locked (lock held by node /modules)
+	at org.apache.jackrabbit.core.lock.LockInfo.throwLockException(LockInfo.java:269)
+	at org.apache.jackrabbit.core.lock.LockManagerImpl.internalLock(LockManagerImpl.java:370)
+	at org.apache.jackrabbit.core.lock.XALockManager.lock(XALockManager.java:80)
+	at org.apache.jackrabbit.core.lock.SessionLockManager.lock(SessionLockManager.java:180)
+	at org.apache.jackrabbit.core.NodeImpl.lock(NodeImpl.java:3019)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.cms.core.DefaultContent.lock(DefaultContent.java:628)
+	at info.magnolia.module.activation.ReceiveFilter.lock(ReceiveFilter.java:997)
+	at info.magnolia.module.activation.ReceiveFilter.applyLock(ReceiveFilter.java:784)
+	at info.magnolia.module.activation.ReceiveFilter.doFilter(ReceiveFilter.java:172)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.security.auth.login.LoginFilter.doFilter(LoginFilter.java:127)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81)
+	at info.magnolia.cms.filters.CosMultipartRequestFilter.doFilter(CosMultipartRequestFilter.java:87)
+	at info.magnolia.cms.filters.OncePerRequestAbstractMgnlFilter.doFilter(OncePerRequestAbstractMgnlFilter.java:59)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.ContentTypeFilter.doFilter(ContentTypeFilter.java:143)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.ContextFilter.doFilter(ContextFilter.java:128)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.CompositeFilter.doFilter(CompositeFilter.java:65)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.SafeDestroyMgnlFilterWrapper.doFilter(SafeDestroyMgnlFilterWrapper.java:107)
+	at info.magnolia.cms.filters.MgnlFilterDispatcher.doDispatch(MgnlFilterDispatcher.java:67)
+	at info.magnolia.cms.filters.MgnlMainFilter.doFilter(MgnlMainFilter.java:108)
+	at info.magnolia.cms.filters.MgnlMainFilter.doFilter(MgnlMainFilter.java:94)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:423)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1079)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:625)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:318)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:57 -- User superuser successfuly activated apps on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:57 -- User superuser successfuly activated about-app on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:58 -- User superuser successfuly activated pages on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:59 -- User superuser successfuly activated dialogs on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:26:59 -- Replacing /modules/pages/apps due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+ERROR  info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:00 -- Some child node is locked (lock held by node /modules)
+javax.jcr.lock.LockException: Some child node is locked (lock held by node /modules)
+	at org.apache.jackrabbit.core.lock.LockInfo.throwLockException(LockInfo.java:269)
+	at org.apache.jackrabbit.core.lock.LockManagerImpl.internalLock(LockManagerImpl.java:370)
+	at org.apache.jackrabbit.core.lock.XALockManager.lock(XALockManager.java:80)
+	at org.apache.jackrabbit.core.lock.SessionLockManager.lock(SessionLockManager.java:180)
+	at org.apache.jackrabbit.core.NodeImpl.lock(NodeImpl.java:3019)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.cms.core.DefaultContent.lock(DefaultContent.java:628)
+	at info.magnolia.module.activation.ReceiveFilter.lock(ReceiveFilter.java:997)
+	at info.magnolia.module.activation.ReceiveFilter.applyLock(ReceiveFilter.java:784)
+	at info.magnolia.module.activation.ReceiveFilter.doFilter(ReceiveFilter.java:172)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.security.auth.login.LoginFilter.doFilter(LoginFilter.java:127)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81)
+	at info.magnolia.cms.filters.CosMultipartRequestFilter.doFilter(CosMultipartRequestFilter.java:87)
+	at info.magnolia.cms.filters.OncePerRequestAbstractMgnlFilter.doFilter(OncePerRequestAbstractMgnlFilter.java:59)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.ContentTypeFilter.doFilter(ContentTypeFilter.java:143)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.ContextFilter.doFilter(ContextFilter.java:128)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.CompositeFilter.doFilter(CompositeFilter.java:65)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.SafeDestroyMgnlFilterWrapper.doFilter(SafeDestroyMgnlFilterWrapper.java:107)
+	at info.magnolia.cms.filters.MgnlFilterDispatcher.doDispatch(MgnlFilterDispatcher.java:67)
+	at info.magnolia.cms.filters.MgnlMainFilter.doFilter(MgnlMainFilter.java:108)
+	at info.magnolia.cms.filters.MgnlMainFilter.doFilter(MgnlMainFilter.java:94)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:423)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1079)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:625)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:318)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:01 -- User superuser successfuly activated apps on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:01 -- User superuser successfuly activated adminInterface on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:02 -- User superuser successfuly activated fieldTypes on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:02 -- User superuser successfuly activated commands on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:02 -- User superuser successfuly activated website on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:02 -- User superuser successfuly activated messages-app on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:02 -- Replacing /modules/messages-app/apps due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:02 -- User superuser successfuly activated apps on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:02 -- User superuser successfuly activated mail on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:03 -- Replacing /modules/mail/commands due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:03 -- User superuser successfuly activated commands on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:03 -- User superuser successfuly activated default on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:03 -- Replacing /modules/mail/config due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:03 -- User superuser successfuly activated config on magnoliaPublic.
+ERROR  info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:03 -- Some child node is locked (lock held by node /modules)
+javax.jcr.lock.LockException: Some child node is locked (lock held by node /modules)
+	at org.apache.jackrabbit.core.lock.LockInfo.throwLockException(LockInfo.java:269)
+	at org.apache.jackrabbit.core.lock.LockManagerImpl.internalLock(LockManagerImpl.java:370)
+	at org.apache.jackrabbit.core.lock.XALockManager.lock(XALockManager.java:80)
+	at org.apache.jackrabbit.core.lock.SessionLockManager.lock(SessionLockManager.java:180)
+	at org.apache.jackrabbit.core.NodeImpl.lock(NodeImpl.java:3019)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.jcr.wrapper.DelegateNodeWrapper.lock(DelegateNodeWrapper.java:322)
+	at info.magnolia.cms.core.DefaultContent.lock(DefaultContent.java:628)
+	at info.magnolia.module.activation.ReceiveFilter.lock(ReceiveFilter.java:997)
+	at info.magnolia.module.activation.ReceiveFilter.applyLock(ReceiveFilter.java:784)
+	at info.magnolia.module.activation.ReceiveFilter.doFilter(ReceiveFilter.java:172)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.security.auth.login.LoginFilter.doFilter(LoginFilter.java:127)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:81)
+	at info.magnolia.cms.filters.CosMultipartRequestFilter.doFilter(CosMultipartRequestFilter.java:87)
+	at info.magnolia.cms.filters.OncePerRequestAbstractMgnlFilter.doFilter(OncePerRequestAbstractMgnlFilter.java:59)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.ContentTypeFilter.doFilter(ContentTypeFilter.java:143)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.ContextFilter.doFilter(ContextFilter.java:128)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.MgnlFilterChain.doFilter(MgnlFilterChain.java:79)
+	at info.magnolia.cms.filters.CompositeFilter.doFilter(CompositeFilter.java:65)
+	at info.magnolia.cms.filters.AbstractMgnlFilter.doFilter(AbstractMgnlFilter.java:85)
+	at info.magnolia.cms.filters.SafeDestroyMgnlFilterWrapper.doFilter(SafeDestroyMgnlFilterWrapper.java:107)
+	at info.magnolia.cms.filters.MgnlFilterDispatcher.doDispatch(MgnlFilterDispatcher.java:67)
+	at info.magnolia.cms.filters.MgnlMainFilter.doFilter(MgnlMainFilter.java:108)
+	at info.magnolia.cms.filters.MgnlMainFilter.doFilter(MgnlMainFilter.java:94)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:241)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:208)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:220)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:122)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:505)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:170)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103)
+	at org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:956)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:116)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:423)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1079)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:625)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:318)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:03 -- User superuser successfuly activated cache-app on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:03 -- User superuser successfuly activated templatesConfiguration on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:03 -- User superuser successfuly activated fieldTypes on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:04 -- User superuser successfuly activated apps on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:04 -- User superuser successfuly activated inplace-templating on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:04 -- Replacing /modules/inplace-templating/dialogs due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:04 -- User superuser successfuly activated dialogs on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:05 -- User superuser successfuly activated commands on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:05 -- User superuser successfuly activated templating on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:05 -- User superuser successfuly activated config on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:06 -- User superuser successfuly activated apps on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:07 -- Content /modules is locked. Will retry 10 more times.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:07 -- User superuser successfuly activated groovy on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:09 -- User superuser successfuly activated groovy on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:09 -- User superuser successfuly activated fieldTypes on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:09 -- User superuser successfuly activated dialogs on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:11 -- User superuser successfuly activated apps on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:11 -- User superuser successfuly activated cache-app on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:11 -- Replacing /modules/cache-app/fieldTypes due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:11 -- User superuser successfuly activated fieldTypes on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:12 -- Replacing /modules/cache-app/apps due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:12 -- User superuser successfuly activated apps on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:12 -- User superuser successfuly activated adminInterface on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:12 -- Replacing /modules/adminInterface/virtualURIMapping due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:12 -- User superuser successfuly activated virtualURIMapping on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:13 -- Replacing /modules/adminInterface/templates due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:13 -- User superuser successfuly activated templates on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:13 -- Replacing /modules/adminInterface/dialogs due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:13 -- User superuser successfuly activated dialogs on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:13 -- Replacing /modules/adminInterface/pages due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:13 -- User superuser successfuly activated pages on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:13 -- Replacing /modules/adminInterface/trees due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:14 -- User superuser successfuly activated trees on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:14 -- User superuser successfuly activated controls on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:14 -- User superuser successfuly activated about-app on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:15 -- Replacing /modules/about-app/apps due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:15 -- User superuser successfuly activated apps on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:15 -- User superuser successfuly activated templating-jsp on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:15 -- User superuser successfuly activated task-management on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:15 -- Replacing /modules/task-management/config due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:15 -- User superuser successfuly activated config on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:15 -- User superuser successfuly activated resources on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:15 -- Replacing /modules/resources/renderers due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:15 -- User superuser successfuly activated renderers on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:16 -- Replacing /modules/resources/templates due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:16 -- User superuser successfuly activated templates on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:16 -- User superuser successfuly activated commands on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:16 -- User superuser successfuly activated resources on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:16 -- User superuser successfuly activated config on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:16 -- User superuser successfuly activated resourceLoaders on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:17 -- User superuser successfuly activated ui-mediaeditor on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:17 -- User superuser successfuly activated mediaEditors on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:17 -- User superuser successfuly activated templating on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:17 -- User superuser successfuly activated templates on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:18 -- User superuser successfuly activated renderers on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:18 -- User superuser successfuly activated scheduler on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:18 -- User superuser successfuly activated config on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:18 -- User superuser successfuly activated jobs on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:18 -- User superuser successfuly activated messageViews on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:19 -- User superuser successfuly activated resteasy-client on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:19 -- User superuser successfuly activated imaging on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:19 -- Replacing /modules/imaging/config due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:19 -- User superuser successfuly activated config on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:19 -- User superuser successfuly activated generators on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:19 -- Replacing /modules/imaging/trees due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:19 -- User superuser successfuly activated trees on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:20 -- User superuser successfuly activated ui-framework on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:20 -- User superuser successfuly activated fieldTypes on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:20 -- User superuser successfuly activated commands on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:20 -- User superuser successfuly activated default on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:21 -- User superuser successfuly activated dialogs on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:21 -- User superuser successfuly activated generic on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:21 -- User superuser successfuly activated rendering on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:21 -- Replacing /modules/rendering/renderers due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:21 -- User superuser successfuly activated renderers on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:21 -- User superuser successfuly activated ehcache on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:22 -- User superuser successfuly activated dam-jcr on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:22 -- User superuser successfuly activated rest-services on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:22 -- User superuser successfuly activated rest-endpoints on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:22 -- User superuser successfuly activated config on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:23 -- User superuser successfuly activated cache on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:23 -- Replacing /modules/cache/commands due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:23 -- User superuser successfuly activated commands on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:23 -- User superuser successfuly activated cache on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:23 -- Replacing /modules/cache/config due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:23 -- User superuser successfuly activated config on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:23 -- User superuser successfuly activated contentCaching on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:24 -- User superuser successfuly activated rest-integration on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:24 -- User superuser successfuly activated config on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:24 -- User superuser successfuly activated rest-client on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:24 -- User superuser successfuly activated resource-loader on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:25 -- User superuser successfuly activated imaging-support on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:25 -- User superuser successfuly activated categorization-support on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:25 -- User superuser successfuly activated ui-admincentral on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:25 -- Replacing /modules/ui-admincentral/apps due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:25 -- User superuser successfuly activated apps on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:26 -- User superuser successfuly activated virtualURIMapping on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:26 -- Replacing /modules/ui-admincentral/config due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:26 -- User superuser successfuly activated config on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:26 -- User superuser successfuly activated messageViews on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:27 -- User superuser successfuly activated templates on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:27 -- User superuser successfuly activated dialogs on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:27 -- User superuser successfuly activated commands on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:27 -- User superuser successfuly activated default on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:28 -- User superuser successfuly activated activation on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:28 -- Replacing /modules/activation/virtualURIMapping due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:28 -- User superuser successfuly activated virtualURIMapping on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:28 -- Replacing /modules/activation/config due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:28 -- User superuser successfuly activated config on magnoliaPublic.
+WARN   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:28 -- Replacing /modules/activation/commands due to name collision (but different UUIDs.). This operation could not be rolled back in case of failure and you need to reactivate the page manually.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:28 -- User superuser successfuly activated commands on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:28 -- User superuser successfuly activated versioned on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:28 -- User superuser successfuly activated default on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:29 -- User superuser successfuly activated apps on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:29 -- User superuser successfuly activated lang-el on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:29 -- User superuser successfuly activated freemarker-support on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:29 -- User superuser successfuly activated dam on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:29 -- User superuser successfuly activated config on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:27:30 -- User superuser successfuly activated core on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 11:45:42 -- User superuser successfuly activated saeedVM8080 on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 14:35:21 -- User superuser successfuly activated about on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 14:41:01 -- User superuser successfuly activated about on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 14:41:29 -- User superuser successfuly activated subscriptions on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 14:53:20 -- User superuser successfuly activated saeedVM8080 on magnoliaPublic.
+INFO   info.magnolia.module.activation.ReceiveFilter 06.10.2015 14:53:28 -- User superuser successfuly activated saeedVM8080 on magnoliaPublic.
+ERROR  info.magnolia.module.activation.ExchangeTask 11.10.2015 16:24:43 -- Failed to deactivate content.
+info.magnolia.cms.exchange.ExchangeException: java.lang.SecurityException: Private key store doesn't exist at [/home/saeed/Testing/magnolia/apache-tomcat-7.0.64/webapps/magnoliaPublic/WEB-INF/config/default/magnolia-activation-keypair.properties]. Please, ensure that [magnolia.author.key.location] actually points to the correct location
+	at info.magnolia.module.activation.BaseSyndicatorImpl.activate(BaseSyndicatorImpl.java:448)
+	at info.magnolia.module.activation.SimpleSyndicator$2.runTask(SimpleSyndicator.java:135)
+	at info.magnolia.module.activation.ExchangeTask.run(ExchangeTask.java:75)
+	at EDU.oswego.cs.dl.util.concurrent.PooledExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.SecurityException: Private key store doesn't exist at [/home/saeed/Testing/magnolia/apache-tomcat-7.0.64/webapps/magnoliaPublic/WEB-INF/config/default/magnolia-activation-keypair.properties]. Please, ensure that [magnolia.author.key.location] actually points to the correct location
+	at info.magnolia.cms.security.SecurityUtil.checkPrivateKeyStoreExistence(SecurityUtil.java:395)
+	at info.magnolia.cms.security.SecurityUtil.getPrivateKey(SecurityUtil.java:260)
+	at info.magnolia.cms.security.SecurityUtil.encrypt(SecurityUtil.java:193)
+	at info.magnolia.module.activation.BaseSyndicatorImpl.addActivationHeaders(BaseSyndicatorImpl.java:613)
+	at info.magnolia.module.activation.BaseSyndicatorImpl.transportActivatedData(BaseSyndicatorImpl.java:478)
+	at info.magnolia.module.activation.BaseSyndicatorImpl.activate(BaseSyndicatorImpl.java:407)
+	... 4 more
+ERROR  info.magnolia.module.activation.SimpleSyndicator 11.10.2015 16:24:43 -- java.lang.SecurityException: Private key store doesn't exist at [/home/saeed/Testing/magnolia/apache-tomcat-7.0.64/webapps/magnoliaPublic/WEB-INF/config/default/magnolia-activation-keypair.properties]. Please, ensure that [magnolia.author.key.location] actually points to the correct location
+info.magnolia.cms.exchange.ExchangeException: java.lang.SecurityException: Private key store doesn't exist at [/home/saeed/Testing/magnolia/apache-tomcat-7.0.64/webapps/magnoliaPublic/WEB-INF/config/default/magnolia-activation-keypair.properties]. Please, ensure that [magnolia.author.key.location] actually points to the correct location
+	at info.magnolia.module.activation.BaseSyndicatorImpl.activate(BaseSyndicatorImpl.java:448)
+	at info.magnolia.module.activation.SimpleSyndicator$2.runTask(SimpleSyndicator.java:135)
+	at info.magnolia.module.activation.ExchangeTask.run(ExchangeTask.java:75)
+	at EDU.oswego.cs.dl.util.concurrent.PooledExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.SecurityException: Private key store doesn't exist at [/home/saeed/Testing/magnolia/apache-tomcat-7.0.64/webapps/magnoliaPublic/WEB-INF/config/default/magnolia-activation-keypair.properties]. Please, ensure that [magnolia.author.key.location] actually points to the correct location
+	at info.magnolia.cms.security.SecurityUtil.checkPrivateKeyStoreExistence(SecurityUtil.java:395)
+	at info.magnolia.cms.security.SecurityUtil.getPrivateKey(SecurityUtil.java:260)
+	at info.magnolia.cms.security.SecurityUtil.encrypt(SecurityUtil.java:193)
+	at info.magnolia.module.activation.BaseSyndicatorImpl.addActivationHeaders(BaseSyndicatorImpl.java:613)
+	at info.magnolia.module.activation.BaseSyndicatorImpl.transportActivatedData(BaseSyndicatorImpl.java:478)
+	at info.magnolia.module.activation.BaseSyndicatorImpl.activate(BaseSyndicatorImpl.java:407)
+	... 4 more
+ERROR  info.magnolia.module.activation.ExchangeTask 11.10.2015 16:24:53 -- Failed to deactivate content.
+info.magnolia.cms.exchange.ExchangeException: java.lang.SecurityException: Private key store doesn't exist at [/home/saeed/Testing/magnolia/apache-tomcat-7.0.64/webapps/magnoliaPublic/WEB-INF/config/default/magnolia-activation-keypair.properties]. Please, ensure that [magnolia.author.key.location] actually points to the correct location
+	at info.magnolia.module.activation.BaseSyndicatorImpl.activate(BaseSyndicatorImpl.java:448)
+	at info.magnolia.module.activation.SimpleSyndicator$2.runTask(SimpleSyndicator.java:135)
+	at info.magnolia.module.activation.ExchangeTask.run(ExchangeTask.java:75)
+	at EDU.oswego.cs.dl.util.concurrent.PooledExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.SecurityException: Private key store doesn't exist at [/home/saeed/Testing/magnolia/apache-tomcat-7.0.64/webapps/magnoliaPublic/WEB-INF/config/default/magnolia-activation-keypair.properties]. Please, ensure that [magnolia.author.key.location] actually points to the correct location
+	at info.magnolia.cms.security.SecurityUtil.checkPrivateKeyStoreExistence(SecurityUtil.java:395)
+	at info.magnolia.cms.security.SecurityUtil.getPrivateKey(SecurityUtil.java:260)
+	at info.magnolia.cms.security.SecurityUtil.encrypt(SecurityUtil.java:193)
+	at info.magnolia.module.activation.BaseSyndicatorImpl.addActivationHeaders(BaseSyndicatorImpl.java:613)
+	at info.magnolia.module.activation.BaseSyndicatorImpl.transportActivatedData(BaseSyndicatorImpl.java:478)
+	at info.magnolia.module.activation.BaseSyndicatorImpl.activate(BaseSyndicatorImpl.java:407)
+	... 4 more
+ERROR  info.magnolia.module.activation.SimpleSyndicator 11.10.2015 16:24:53 -- java.lang.SecurityException: Private key store doesn't exist at [/home/saeed/Testing/magnolia/apache-tomcat-7.0.64/webapps/magnoliaPublic/WEB-INF/config/default/magnolia-activation-keypair.properties]. Please, ensure that [magnolia.author.key.location] actually points to the correct location
+info.magnolia.cms.exchange.ExchangeException: java.lang.SecurityException: Private key store doesn't exist at [/home/saeed/Testing/magnolia/apache-tomcat-7.0.64/webapps/magnoliaPublic/WEB-INF/config/default/magnolia-activation-keypair.properties]. Please, ensure that [magnolia.author.key.location] actually points to the correct location
+	at info.magnolia.module.activation.BaseSyndicatorImpl.activate(BaseSyndicatorImpl.java:448)
+	at info.magnolia.module.activation.SimpleSyndicator$2.runTask(SimpleSyndicator.java:135)
+	at info.magnolia.module.activation.ExchangeTask.run(ExchangeTask.java:75)
+	at EDU.oswego.cs.dl.util.concurrent.PooledExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.SecurityException: Private key store doesn't exist at [/home/saeed/Testing/magnolia/apache-tomcat-7.0.64/webapps/magnoliaPublic/WEB-INF/config/default/magnolia-activation-keypair.properties]. Please, ensure that [magnolia.author.key.location] actually points to the correct location
+	at info.magnolia.cms.security.SecurityUtil.checkPrivateKeyStoreExistence(SecurityUtil.java:395)
+	at info.magnolia.cms.security.SecurityUtil.getPrivateKey(SecurityUtil.java:260)
+	at info.magnolia.cms.security.SecurityUtil.encrypt(SecurityUtil.java:193)
+	at info.magnolia.module.activation.BaseSyndicatorImpl.addActivationHeaders(BaseSyndicatorImpl.java:613)
+	at info.magnolia.module.activation.BaseSyndicatorImpl.transportActivatedData(BaseSyndicatorImpl.java:478)
+	at info.magnolia.module.activation.BaseSyndicatorImpl.activate(BaseSyndicatorImpl.java:407)
+	... 4 more
